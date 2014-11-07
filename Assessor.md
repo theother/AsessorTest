@@ -22,4 +22,22 @@ Each Township and Range is further divided into `1-mile` squares called `Section
 Each section can be divided into quarters and halves. So that a quarter-section is 160 acres and a quarter of a quarter is 40 acres.
 
 > ![alt text](/imgs/DividedSection.jpg)
-> In the figure above, the ten-acre square in the northwest corner is described as "The Northwest Quarter of the Northwest Quarter of the Northwest Quarter of Section 12 Township 29N, Range 8 West" which is abbreviated NW1/4NW1/4NW1/4 S12 T29N R8W or simply NW NW NW 12-29-8.
+> In the figure above, the ten-acre square in the northwest corner is described as "The Northwest Quarter of the Northwest Quarter of the Northwest Quarter of Section 12 Township 29N, Range 8 West" which is abbreviated 
+> NW1/4 NW1/4 NW1/4 S12 T29N R8W or simply NW NW NW 12-29-8.
+
+#### Example
+> ![alt text](/imgs/S16.jpg)
+
+In this case, we want to locate the property on a topo map, so we find the correct map by township and range and we locate Section 16 in Township 29 North, Range 2 East.  A typical Section is one mile square and contains 640 acres.
+
+> ![alt text](/imgs/SES16.jpg)
+
+Next, we find the center of the section by drawing diagonals from each corner. Then you locate the Southeast Quarter of Section.16  A typical Quarter Section is half a mile square and contains 160 acres.
+
+> ![alt text](/imgs/SWSES16.jpg)
+
+Using the same technique, we locate the Southwest Quarter of the Southeast Quarter of Section 16.  A typical Quarter-Quarter Section is quarter mile square and contains 40 acres. 
+
+> ![alt text](/imgs/NWSWSES16.jpg)
+
+And finally, we locate the Northwest Quarter of the Southwest Quarter of the Southeast Quarter of Section 16, Township 29 North, Range 2 East. A typical Quarter-Quarter-Quarter Section is 660 feet square and contains 10 acres.
