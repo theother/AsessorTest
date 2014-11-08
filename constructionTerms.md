@@ -5,7 +5,7 @@ Construction Terms
 ![alt text](/imgs/r2.jpg)
 
 + curb (or curbed) —A roof where the pitch of the upper part of a sloping side is less than the pitch of the lower part. 
-    * ![alt text](http://www.chiefarchitect.com/support/article/KB-00649/)
+    * ![alt text](http://kb.live.chiefarchitect.com/admin/media_store/2/Shared/chief/6/649_image1.jpg)
 + flat—A roof that is flat or sloped only enough to provide proper drainage.
     * ![alt text](http://sheltonroofingsantacruz.com/wp-content/uploads/2013/08/garage-flat-roof-installations.jpg)
 + gable—A double-sloped roof having a cross section similar to the shape of the inverted letter “v”.
