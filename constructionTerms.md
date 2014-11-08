@@ -34,3 +34,18 @@ Construction Terms
 ![alt text](http://www.euroamericaninc.com/concrete%20areaway.jpg)
 + __Balusters (bannisters)__
 ![alt text](http://www.lapedreranaturalstones.com/exclusives/images/balusters_hd.jpg)
+
+
+### Dwellings
++ Dwelling—Any building or portion thereof designed or occupied in whole or in part as a place of residence.
++ Dwelling, attached—A multi-family dwelling where the dwelling units are separated vertically by means of common or party walls. See “terrace.”
++ Dwelling, double—A two-family dwelling that the dwelling units are separated vertically, by means of a common or party wall.
++ Dwelling, duplex—A two-family dwelling in which the two dwelling units are separated horizontally with a private street entrance for each; i.e., a two-family flat.
++ Dwelling, multi-family—A building designed as a place of residence for more than two families or households; e.g., an apartment house or tenement.
++ Dwelling, row—Any one of a series of similar single-family, two-family, or multi-family dwellings having one or more contiguous common, or party walls.
++ Dwelling unit—Any room or group of rooms designed as the living quarters of one family or household, equipped with cooking and toilet facilities, and having an independent entrance from a public hall or from
+the outside.
+
+
+
+
