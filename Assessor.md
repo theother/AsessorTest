@@ -85,6 +85,15 @@ And finally, we locate the Northwest Quarter of the Southwest Quarter of the Sou
     * Reference or beginning point for measuring east or west ranges.
 + Principal Meridian
     * Reference or beginning point for measuring north or south townships.
++ True Meridian
+    * Is due north-south line extending from North to South pole
++ Standard Parallese - also called Correction lines
+    * 60 miles apart
+
+> ![alt text](/imgs/1a.png)
+> ![alt text](/imgs/3a.png)
+> ![alt text](/imgs/4a.png)
+> ![alt text](/imgs/5a.png)
 
 __Length Messurment__
 + Section = 640 Ac

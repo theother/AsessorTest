@@ -14,6 +14,23 @@ __Determining Areas and Volumes__
 + Cude --> L*W*H = Volume
 + Triangle = (B*H)/2 = Area
 + Circle 
-    * > ![alt text](/imgs/circle-circumference.png)
+ ![alt text](/imgs/circle-circumference.png)
     * pi*r^2 = Area
     * 2(pi)r = circumference
+
+#### Vocab
++ Mean - Average
++ Median - Middle number
++ Aggregate - (Mean+median)/2
+
+
+#### Formulas
+
+__Board Feet__
+(lenght*width*thickness)/144
+
+__Assessment Ratio__
+(Assessed Value)/(Selling Price)
+
+__Perimeter Ratio__
+(Sq Feet of Ground Area)/(lineal feet of building perimiter)
